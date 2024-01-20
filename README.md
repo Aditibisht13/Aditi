@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aditi Bisht</h1>
-<h3 align="center">Data Analyst Ethusiast</h3>
+<h3 align="center">Data Science Ethusiast</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aditibisht13&label=Profile%20views&color=0e75b6&style=flat" alt="aditibisht13" /> </p>
 
