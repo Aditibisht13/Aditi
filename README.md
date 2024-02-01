@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **Python, SQL, Power BI, Artificial Intelligence**
 
-- 📫 How to reach me **aditi26.bisht@gmail.com**
+- 📫 How to reach me **aditibisht.work2024@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
